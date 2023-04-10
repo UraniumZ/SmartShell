@@ -8,5 +8,5 @@ SmartShell use a small-sized and low-cost reflective surface attached to the mob
 <img src="./images/Hardware.png" width="500">
 
 ## Hardware
-SmartShell hardware contains two parts: a board with MCU and energy harvesting module and an antenna array board. The PCB hardware is designed using Altium Designer 19. You can download the schematics as well as the layout files in this project. When you use SmartShell, you should connect the two parts by pin header and female header.
+SmartShell hardware contains two parts: a board with MCU and energy harvesting module and an antenna array board. When you use SmartShell, you should connect the two parts by pin header and female header. The PCB hardware is designed using Altium Designer 19. You can download the schematics as well as the layout files in this project. Before SmartShell is powered up, it should check if the battery is still functional. If not, the battery needs to be charged via the coil energy harvesting.
 ## Software
