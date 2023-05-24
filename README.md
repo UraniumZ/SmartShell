@@ -26,6 +26,11 @@ We use BLE as the wireless technique where Bluetooth's Generic Access Profile (G
 
 We write an Android APP that collects RSSI data every 100ms to accommodate the QS algorithm. It should use Android Studio 2021.3.1.17 to install the APP into Android phone. In order to ensure that the APP can be installed into the Android phone, it need to open the Android phone's developer rights.
 
+## Main Contributors
+
+Linling Zhong (uranium_zll@sjtu.edu.cn)
+Ouyang Mingwei (1999mrou@sjtu.edu.cn)
+Fengyuan Zhu (jsqdzhufengyuan@sjtu.edu.cn)
 
 
 
