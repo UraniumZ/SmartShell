@@ -29,7 +29,9 @@ We write an Android APP that collects RSSI data every 100ms to accommodate the Q
 ## Main Contributors
 
 Linling Zhong (uranium_zll@sjtu.edu.cn)
+
 Ouyang Mingwei (1999mrou@sjtu.edu.cn)
+
 Fengyuan Zhu (jsqdzhufengyuan@sjtu.edu.cn)
 
 
