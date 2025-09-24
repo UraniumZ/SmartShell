@@ -16,7 +16,7 @@ SmartShell hardware contains two parts: a board with MCU and energy harvesting m
 
 ## Software 
 
-The subdirectory software contains the source code of wireless configuration (MCU folder) and the source code of SmartShell APP (APP folder). （https://github.com/oymingw/SmartShell）
+The subdirectory software contains the source code of wireless configuration (MCU folder) and the source code of SmartShell APP (APP folder). 
 
 **Wireless Configuration**
 
